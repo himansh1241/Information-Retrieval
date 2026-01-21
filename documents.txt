@@ -1,0 +1,4 @@
+1|The quick brown fox jumps over the lazy dog.
+2|The lazy dog lies in the sun.
+3|A fox is quick and clever.
+4|Sunshine makes the fox happy.
